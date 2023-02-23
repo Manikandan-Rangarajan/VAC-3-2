@@ -65,6 +65,8 @@ td{
     padding:10px 30px;
     margin:5px 0;
     background-color: #fff;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .container-fluid button:hover{
