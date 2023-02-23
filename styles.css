@@ -39,22 +39,22 @@ td{
     transition: 1s;
 }
 
-.container-fluid option{
-    background-color: #fff;
-    border-radius: 5px;
-}
-
-.container-fluid option:hover{
-    background-color: rgb(251, 189, 113);
-    transition: 1s;
-}
-
 .container-fluid select{
     background-color: #fff;
     border-radius: 5px;
 }
 
 .container-fluid select:hover{
+    background-color: rgb(251, 189, 113);
+    transition: 1s;
+}
+
+.container-fluid option{
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.container-fluid option:hover{
     background-color: rgb(251, 189, 113);
     transition: 1s;
 }
